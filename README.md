@@ -1,2 +1,2 @@
-# ikinciprojem
-Patika.dev üzerinden öğrendiğim yeni bilgilerle yaptığım proje!
+# ikinciödev
+Patika.dev üzerinden öğrendiğim yeni bilgilerle yaptığım ödev!
